@@ -7,4 +7,4 @@ Example: We sent an SMS: OFF:240;ON:600; and let's say that the time when unit r
 
 The app has also a possibility to run certain programs of heating, for example to heat water only for certain amount of time, or to only heat the water during cheaper electricity (TBD). You can use it on multiple devices, because all work is synchronized. App also picks up the weather data to make heating times shorter or longer regarding the outside temperature.
 
-The file Celotna.ino contains code for Arduino.
+The file Celotna.ino contains code for Arduino and Bojler folder includes files for AndroidStudio.
