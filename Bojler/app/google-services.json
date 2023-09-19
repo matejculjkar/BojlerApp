@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "534750818870",
+    "project_id": "bojlerapp",
+    "storage_bucket": "bojlerapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534750818870:android:725f1f3c879e03f4a11e97",
+        "android_client_info": {
+          "package_name": "com.bojlerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "534750818870-vkd3e92nav3ca89ml0l1o05n8d5rldev.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzGoIjdvU4_UATksz0qBpzgZNSwHo-4AI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "534750818870-vkd3e92nav3ca89ml0l1o05n8d5rldev.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
